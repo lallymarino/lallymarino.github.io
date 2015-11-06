@@ -1,13 +1,10 @@
 <!DOCTYPE css>
 body {color: #000080; font-family: arial; 
 }
-
-h1 {color: #000080; font-family: arial;
-}
-
+h1
 p
 ul
 li
 img
-#slogan {font-style: italic;
+#slogan {font-style: italic; color: #000080; font-family: arial;
 }
