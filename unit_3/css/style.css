@@ -1,10 +1,18 @@
-<!DOCTYPE css>
-body {color: #000080; font-family: arial; 
+body {
+	color: #000080; 
+	font-family: arial; 
 }
 h1
 p
-ul
+ul {
+    list-style-type: none;
+}
 li
 img
-#slogan {font-style: italic; color: #000080; font-family: arial;
+#slogan {
+	font-style: italic; 
+	color: #000080; 
+	font-family: arial;
+}
+#footer {font-family: Verdana, Geneva, sans-serif;
 }
